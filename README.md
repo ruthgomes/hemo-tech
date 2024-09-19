@@ -1,2 +1,2 @@
-# hemo-tech
-Projeto Hemo-Tech
+# HemoTech
+HemoTech
